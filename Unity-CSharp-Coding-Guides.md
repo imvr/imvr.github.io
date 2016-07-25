@@ -2,6 +2,7 @@
 
 ----------
 **document version:**	1.0  
+**author:** stan  
 **date:** 2016/1/19
 
 # Part 1. Coding Style #
