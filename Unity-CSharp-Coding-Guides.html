@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Unity-CSharp-Coding-Guides</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h1>Unity CSharp Coding Guides</h1>
+<hr />
+<p><strong>document version:</strong>	1.0<br />
+<strong>date:</strong> 2016/1/19</p>
+<h1>Part 1. Coding Style</h1>
+<h2>概述</h2>
+<ul>
+<li>方便项目的交流和维护。</li>
+<li>不影响编码效率，不与大众习惯冲突。</li>
+<li>代码颜值更高、方便阅读。</li>
+<li>代码逻辑更清晰、更易理解。</li>
+<li>优秀的Code是写给人看的，而不是写给机器看的。</li>
+</ul>
+<h2>代码外观</h2>
+<h3>换行</h3>
+<p>当表达式超出或即将超出规定的列宽，遵循以下规则进行换行</p>
+<ul>
+<li>在逗号后换行</li>
+<li>在操作符前换行。</li>
+<li>规则1优先于规则2。</li>
+</ul>
+<p>当以上规则会导致代码混乱的时，自己采取更灵活的换行规则。</p>
+<h3>缩进</h3>
+<p>缩进是每行一个Tab键位(4个空格)，建议使用Tab键代替空格键缩进。</p>
+<h3>空行</h3>
+<p>空行是为了将逻辑上相关联的代码分块，以便提高代码的可阅读性。<br />
+在以下情况下使用<strong>两个空行</strong>（注：不建议一个文件中写多个类或接口）</p>
+<ul>
+<li>接口和类的定义之间。</li>
+<li>枚举和类的定义之间。</li>
+<li>类与类的定义之间。</li>
+</ul>
+<p>在以下情况下使用<strong>一个空行</strong></p>
+<ul>
+<li>方法与方法之间。</li>
+<li>方法中变量声明与语句之间。</li>
+<li>方法中不同的逻辑块之间。</li>
+<li>方法中的返回语句与其他的语句之间。</li>
+<li>属性与方法、属性与字段、方法与字段之间。</li>
+<li>注释与它注释的语句间不空行，但与其他的语句间空一行。</li>
+</ul>
+<h3>空格</h3>
+<p>在以下情况中要使用到空格</p>
+<ul>
+<li>
+<p>关键字和左括符“(”应该用空格隔开。如  
+</p>
+<pre><code>while (true)
+</code></pre>
+
+</li>
+</ul>
+<p>注意在方法名和左括符“(”之间不要使用空格，这样有助于辨认代码中的方法调用与关键字。</p>
+<ul>
+<li>多个参数用逗号隔开，每个逗号后加一个空格。</li>
+<li>
+<p>除了 <strong>.</strong> 之外，所有的二元操作符都应用空格与它们的操作数隔开。一元操作符、++及--与操作数间不需要空格。如</p>
+<pre><code>a += c + d;
+a = (a + b) / (c * d);
+while (d++ = s++)
+{
+    n++;
+}
+PrintSize(&quot;sizeis&quot; + size.ToString() + &quot;\n&quot;);
+</code></pre>
+
+</li>
+<li>
+<p>语句中的表达式之间用空格隔开。如</p>
+<pre><code>for(expr1; expr2; expr3)
+</code></pre>
+
+</li>
+</ul>
+<h2>注释</h2>
+<ul>
+<li>
+<p>文档型注释<br />
+类注释采用.Net已定义好的Xml标签来标记(在IDE中连按三次“/”键可自动完成下述注释结构)，在声明接口、类、方法、属性、字段都应该使用该类注释，以便代码完成后直接生成代码文档，让别人更好的了解代码的实现和接口。如</p>
+<pre><code>/// &lt;summary&gt;
+/// Method Description
+/// &lt;/summary&gt;
+/// &lt;param name=&quot;number&quot;&gt;&lt;/param&gt;
+/// &lt;returns&gt;&lt;/returns&gt;
+public static int MyMethod(int number)
+{
+    return 0;
+}
+</code></pre>
+
+</li>
+<li>
+<p>单行注释<br />
+方法内的代码注释。如变量的声明、代码或代码段的解释。注释示例：</p>
+<pre><code>//注释语句
+private int number;
+</code></pre>
+
+<p>方法内变量的声明或花括号后的注释,注释示例：</p>
+<pre><code>if(1==1)//always true
+{
+    statement;
+}//always true
+</code></pre>
+
+<p>括号内代码过多时，建议右花括号“}”后一个注释以便于方便的找到与之相应的{</p>
+<pre><code>if (valid)
+{
+
+}//if valid
+else
+{
+
+}//not valid
+</code></pre>
+
+</li>
+</ul>
+<h2>命名规范</h2>
+<ul>
+<li>命名概述<br />
+名称应尽可能的体现是“什么”。保留对象层面的抽象含义。例如，使用<strong>GetNextEnemy()</strong>，而优于 <strong>GetNextArrayElement()</strong>。<br />
+使大家能快速明白名字的含义，尽可能不产生歧义，去猜测变量的意义。</li>
+<li>命名原则：  </li>
+</ul>
+<p><br></p>
+<ol>
+<li>不建议使用拼音，或拼音的缩写命名，不便阅读。</li>
+<li>在类属性的名称中包含类名是多余的，如<strong>Book.BookTitle</strong>。而是应该使用<strong>Book.Title</strong>。</li>
+<li>只要合适，在变量名的末尾或开头加计算限定符（<strong>Avg、Sum、Min、Max、Index</strong>）。</li>
+<li>在变量名中使用互补对，如 <strong>min/max</strong>、<strong>begin/end</strong> 和 <strong>open/close</strong>。</li>
+<li>布尔变量名应该包含 <strong>is</strong>，这意味着 <strong>Yes/No</strong> 或 <strong>True/False</strong> 值，如 <strong>isFileFound</strong>。</li>
+<li>即使对于可能仅出现在几个代码行中的生存期很短的变量，仍然使用有意义的名称。仅对于短循环索引使用单字母变量名，如i或j。</li>
+<li>尽量不要使用原义数字或原义字符串,在代码中出现<strong>魔法数字</strong>，不建议 <strong>for (int i = 0; i &lt; 7; i++)</strong>。建议 <strong>for (int i = 0; i &lt; NUM_DAYS_IN_WEEK; i++)</strong> 以便于维护和理解。</li>
+</ol>
+<p><br></p>
+<ul>
+<li>
+<p>首字母大写的 Pascal 命名情况：<br />
+<strong>namespace, class, enum, event, interface, public method, property, public field</strong></p>
+</li>
+<li>
+<p>全部大写：众所周知的简称，如 IO, UI, TV, AD, HUD等  
+</p>
+<pre><code>Immersion.IO
+Immersion.UI
+</code></pre>
+
+</li>
+<li>
+<p>全部大写，单词间由<strong>下划线</strong>链接，const 常量，配置信息等</p>
+<pre><code>static const int BUFFER_LENGTH = 10;
+</code></pre>
+
+</li>
+<li>
+<p>类中的私有字段，采用 <strong>下划线加Camel</strong> 命名方法</p>
+<pre><code>private int _currentFrame;
+private static AnimationController _instance;
+</code></pre>
+
+</li>
+<li>
+<p>私有方法，局部变量，方法参数 采用Camel命名方法</p>
+<pre><code>private int updateEnemy();
+bool isValid
+</code></pre>
+
+</li>
+<li>
+<p>Interface 命名应以<strong>Ｉ</strong>开头为 <strong>IXxx</strong> 如：  
+</p>
+<pre><code>public interface IDrawable
+public interface IComponent
+</code></pre>
+
+</li>
+<li>
+<p>属性 Attribute 应以 Attribute 结尾</p>
+<pre><code>public class ObsoleteAttribute
+{
+}
+</code></pre>
+
+</li>
+<li>
+<p>常用对象，需加对象的简称作为前缀，如一个头像的Image对象实例： imgHead 或 _imgHead：<br />
+常用命名简称：</p>
+<pre><code>- Name              - prefix
+Border              bdr    
+Button              btn    
+CheckBox            chk    
+ComboBox            cbx       
+Image               img    
+Label               lbl
+Layer               lyr
+Position            pos    
+ProcessBar          pb     
+RadioButton         rb   
+Sprite              spr
+Texture             tx
+</code></pre>
+
+</li>
+</ul>
+<h1>Part 2. Tips</h1>
+<h2>For Performance</h2>
+<ul>
+<li>Update 每秒钟会执行多次，这个方法的执行效率非常重要，非常小心 Update 中的代码</li>
+<li>
+<p>在 Awake 中获取游戏对象引用，避免多次查找对象引用</p>
+<pre><code>void Awake ()
+{
+    _myBox = GetComponent&lt;Box&gt;();
+}
+</code></pre>
+
+</li>
+<li>
+<p>注意字符拼接过程导致的性能问题，如果字符串过多，应使用StringBuilder</p>
+</li>
+<li>
+<p>注意值类型的<strong>装箱</strong>，<strong>拆箱</strong>引起的性能损失</p>
+<pre><code>//如下面代码将造成两次装箱
+string text = &quot;Scores: &quot; + score + &quot;, Coins:&quot; + coin;
+
+//应使用如下方式，避免两次装箱。
+private static string SCORE_FORMAT = &quot;Scores: {0}, Coins {1}&quot;;
+StringBuilder textSb = String.Format(SCORE_FORMAT, score.ToString(), coin.ToString());
+</code></pre>
+
+</li>
+<li>
+<p>空的 Update 方法应该注释，或删除掉，避免调用堆栈的性能开销</p>
+</li>
+<li>
+<p>使用引擎内的数据结构</p>
+<pre><code>//不好
+new Vector3(0, 0, 0);
+//好的
+Vector3.zero
+</code></pre>
+
+</li>
+<li>
+<p>Matrix4x4 等较大的值类型，因考虑使用引用传参，默认的值传参会引起栈上的内存拷贝</p>
+</li>
+<li>
+<p>游戏中的错误一定要处理，警告也应该关注</p>
+<pre><code>IndexOutOfRangeException, NullReferenceException
+</code></pre>
+
+</li>
+<li>
+<p>频繁申请释放的大对象，可以考虑对象池的技术进行管理。避免过于频繁的内存申请/释放</p>
+</li>
+<li>foreach 由于Unity 采用的 mono版本 编译器的Bug， 会造成 finally 代码块中 boxing 的操作，所以会产生 24B 的垃圾，应使用for或者while来代替foreach</li>
+</ul>
+<h2>For OO</h2>
+<ul>
+<li>
+<p>注意 class 的封装性，不能所有成员都是 public, 如果还没有决定好是否要 public出去，建议先使用 private， 当其他对象需要使用时，在public出去</p>
+</li>
+<li>
+<p>避免游戏中的<strong>魔法数字</strong>等 </p>
+<pre><code>//不好
+if(Secretary.GameStep == 1)
+
+//好，定义一个 const 常量进行管理
+if(Secretary.GameStep == INIT_FISH)
+</code></pre>
+
+</li>
+<li>
+<p>全局的配置信息，应统一到一个类中进行管理</p>
+<pre><code>public class GlobalConfig
+{
+    public const string GAME_VERSION = &quot;1.0.3.2&quot;;
+    public const int GAME_VERSION_NUM = 1322;
+    public const int DESIGN_RESOLUTION_WIDTH = 960;
+    public const int DESIGN_RESOLUTION_HEIGHT = 640;
+}
+</code></pre>
+
+</li>
+<li>
+<p>单例模式的封装，应该使用 getInstance() 返回单例的实例，不应该直接暴漏 _instance.</p>
+<pre><code>private static UIManager _instance;
+public static UIManager getInstance() 
+{
+    if (null == _instance)
+    {
+        _instance = new UIManager();
+    }
+
+    return _instance;
+}
+</code></pre>
+
+</li>
+</ul>
+<h2>Summary</h2>
+<p><a href="img/Game-Performance.jpg" title="Tips"><img src="img/Game-Performance.jpg" alt="Tips" /></a></p>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
