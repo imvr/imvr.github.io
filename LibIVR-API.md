@@ -15,12 +15,8 @@
 
 ### install manually ###
 - Download dll files which architecture(x86 or x64) you need.
-- Mark sure "libIVR.dll" file in your "**%SystemRoot%\system32**" folder.(*NOTE*: architecture **x64** need in **system32**, **x86** need in **syswow64**). You can run **"[IVR_install.bat](attachment/sdk/IVR_install.bat)"** to help you do that.
+- Mark sure "libIVR.dll" file in your "**%SystemRoot%\system32**" folder.(*NOTE*: architecture **x64** need in **system32**, **x86** need in **syswow64**).
 
-
-## Download: ##
-x86: [libIVR_v0.05.dll](attachment/sdk/x86/libIVR.dll)   
-x64: [libIVR_v0.05.dll](attachment/sdk/x64/libIVR.dll) 
 
 
 ## Basic Module ##
