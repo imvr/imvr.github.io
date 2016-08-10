@@ -15,7 +15,8 @@
 
 | 版本        					| 发布日期        					| 更新描述  	|
 | :----------------------:					|:---------------------------------| :-----	|
-| [2.0.11](attachment/unity/v2.0/ImmersionVRUnityIntegration_v2.0.11.unitypackage) | 2016/08/02 |1、更新了与控制台通信的逻辑，使心跳包不会频繁丢包。|
+| [2.0.12](attachment/unity/v2.0/ImmersionVRUnityIntegration_v2.0.12.unitypackage) | 2016/08/10 |1、在护眼模式logo下方增加了版本号记录，请程序员找到 IVRCamera3D\Resources\ 下的nightShift预制物体自行填写；<br/>2、添加了错误记录模块，记录游戏运行中发生的错误|
+| [2.0.11](attachment/unity/v2.0/ImmersionVRUnityIntegration_v2.0.11.unitypackage) | 2016/08/02 |1、更新了与控制台通信的逻辑，使心跳包不会频繁丢包|
 | [2.0.10](attachment/unity/v2.0/ImmersionVRUnityIntegration_v2.0.10.unitypackage) | 2016/07/18 |1、PlayerLog.cs添加运行平台判断（windows）；<br/>2、更新了dll结构，分成ImmersionPlugin.dll和libIVRSDK_1.dll两个|
 | [2.0.09](attachment/unity/v2.0/ImmersionVRUnityIntegration_v2.0.09.unitypackage) | 2016/07/11 |1、在Scripts文件夹中增加了脚本文件ServerManager，不用再单独下载了，原先有这个脚本的请删掉；<br/>2、更新了dll，减弱了飘的问题（其实是上个版本我忘记更新dll了）|
 | [2.0.08](attachment/unity/v2.0/ImmersionVRUnityIntegration_v2.0.08.unitypackage) | 2016/06/27 |1.取消游戏子目录，直接将文本存储在D:\PlayerLog目录下；<br/>2.规范文本命名，如：SeaHunter_20160620|
