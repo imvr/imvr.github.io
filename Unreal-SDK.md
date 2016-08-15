@@ -14,35 +14,23 @@
 
 ##用法： 
 
-- 新建一个unreal c++ project   
-- 进入这个project folder
-- 新建一个Plugins文件夹，并把 IVR 放入 
-- 右击拓展名为**.uproject**（文件蓝色带u字的图标）的文件，点击**Generate Visual Studio project files**
-- 打开拓展名为.sln（需安装vs2015）的文件，即可打开工程
-- 此时IVR插件已经被放入工程目录里，进行编译一次，再运行，即可打开unreal editor
-- 在play mode列表里选择**VR Preveiew**,即可播放VR模式     
-
-
-##关于儿童VR和普通VR的切换：
-
-- 打开IVR里的**IVRHMD.cpp**
-- 在**class FIVRHMD**构造函数的成员变量初始化列表里会看到一个**bIsChildrenEnable**，设置它为 **true/false** 即可 **开启/关闭** 儿童VR
-- 需重新编译一次代码再运行，即可打开unreal editor
-- 在play mode列表里选择**VR Preveiew**,即可播放VR模式     
-
-## 技术支持：
-- 任何有疑问的来问我，
-
-
-
+- 把IVR文件夹复制到Unreal Engine 4.12.5 的plugins/Runtime 文件夹下，跟其他吊吊的插件同级哈哈。
+- 然后打开你的project，disable 其他VR插件，enable IVR 插件（默认是enable的），然后打开 VR preview就会看到加入扭曲后的双屏
+- 关于发布：确保你的project settings 里的Default map 是现成的level（否则发布后为黑屏）
 
 
 ---------------------------------
+##看图，应该能容易理解： 
+<center>![](img/UE4/1.png) </center>
+<center>![](img/UE4/2.png) </center>
+<center>![](img/UE4/3.png) </center>
+<center>![](img/UE4/4.png) </center>
+<center>![](img/UE4/5.png) </center>
+<center>![](img/UE4/6.png) </center>
+<center>![](img/UE4/7.png) </center>
+<center>![](img/UE4/8.png) </center>
 
-
-<center>![](img/UE_plugin_logl.png) </center>
-<center> 
-</center>
+---------------------------------
 
 <center>![](img/ekcfj.jpeg) </center>
 <center> 
