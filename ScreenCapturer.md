@@ -11,7 +11,7 @@ x86:
 
 |版本|发布日期|更新描述|
 |:---:|:---:|:---|
-|[0.0.6](/attachment/ScreenCapturer/ScreenCapturer_v0.0.6.zip)|2016/9/21|- Modified the capture area to cover half of the Headset screen. <br /> - Added the picture sidebar |
+|[0.0.6](/attachment/ScreenCapturer/ScreenCapturer_v0.0.6.zip)|2016/9/21|- Modified the capture area to cover half of the Headset screen. <br /> - Added the picture sidebar <br /> - [1920 * 1080 display device download](/attachment/ScreenCapturer/1920_2080/scenes.xconfig)|
 |[0.0.5](/attachment/ScreenCapturer/ScreenCapturer_v0.0.5.zip) |2016/7/5|- Changed captureX value to 1366 for new monitor device. <br/> - Set captureMouse value to false <br/> - Hiddened mouse in main display when hover over App.|
 |[0.0.4](/attachment/ScreenCapturer/ScreenCapturer_v0.0.4.zip) |2016/6/17|- Remove wating for another 15 seconds feature when closing APP. <br /> - Added new beautiful icon. |
 |[0.0.3](/attachment/ScreenCapturer/ScreenCapturer_v0.0.3.rar) |2016/5/3 | - 去掉 Config Close 中 Save Config 功能（上一版本中未彻底去掉保存 Config 功能。）<br/> - 同步 exe 文件属性中的版本号|
@@ -20,5 +20,6 @@ x86:
 
 
 ### Note:
+主屏为"1920 * 1080" 的显示器，可以下载相应版本的 **1920 * 1080 display device download** 文件，覆盖到 ScreenCapturer 目录中即可；  
 "ScreenCapturer" - 程序目录   
 "ScreenCapturer_temp_file" - 程序 pdb 调试信息目录
