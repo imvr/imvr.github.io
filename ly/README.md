@@ -1,42 +1,32 @@
-# Immersion API Index #
+# 丽鱼科技产品常见问题解答 #
 
 ----------
 
-# Please click by your finger!!! #
+# 如果下面没有列出您遇到的问题，请直接联系丽鱼科技客服人员！ #
 
-### IVR SDK ###
+### AR魔幻岛 ###
 
-[LibIVR-API.html](LibIVR-API.html "LibIVR Interface API")   
-[LibGamma-API.html](LibGamma-API.html "LibGamma Interface API")
+[游戏画面卡住不动](MagicIsland-Kinect-1.html "游戏画面卡住不动")   
+[进入游戏后背景显示异常，没有地形](MagicIsland-Kinect-2.html "进入游戏后背景显示异常，没有地形")
 
-### Unity ###
+### 互动沙池 ###
 
-[Unity-SDK.html](Unity-SDK.html "Unity-SDK")   
-[Unity-CSharp-Coding-Guides.html](Unity-CSharp-Coding-Guides.html "Unity Guides")
+[待编辑](待编辑 "待编辑")   
 
-### Unreal ###
-[Unreal-SDK.html](Unreal-SDK.html)   
+### 互动砸球 ###
+[待编辑](待编辑 "待编辑")   
 
-### Tools ###
-[Tools.html](Tools.html)  
-[ServerManager-for-ChildVR.html](ServerManager-for-ChildVR.html)  
-[VRCtrl.html](VRCtrl.html)  
-[Game Posters](attachment/tools/GamePosters.zip)
+### 小龙魔盒 ###
+[待编辑](待编辑 "待编辑") 
 
-### ScreenCapture ###
-[ScreenCapturer.html](ScreenCapturer.html)
-
-### Third party package ###
-[Third-Party.html](Third-Party.html)
-
-### AR ###
-[丽鱼AR](ly/)
+### 桌面互动 ###
+[待编辑](待编辑 "待编辑")
 
 ---------------------------------
 
 <center> ![](img/21.jpg) </center>
 
 <center> 
-###### Suport by Algorithm Team. #####
+###### Suport by Sandbox Team. #####
 </center>
 
