@@ -24,7 +24,7 @@
 
 ---------------------------------
 
-<center> ![](img/21.jpg) </center>
+<center> ![](/img/21.jpg) </center>
 
 <center> 
 ###### Suport by Sandbox Team. #####
