@@ -11,6 +11,7 @@
 [进入游戏后背景显示异常，没有地形](MagicIsland-Kinect-2.html "进入游戏后背景显示异常，没有地形")   
 [投影仪黑屏，不显示图像](MagicIsland-Projector-1.html "投影仪黑屏，不显示图像")   
 [投影仪无信号，显示蓝色背景](MagicIsland-Projector-2.html "投影仪无信号，显示蓝色背景")   
+[投影仪画面显示“投影机过热”等字样，画面亮度有所降低](MagicIsland-Projector-3.html "投影仪画面显示“投影机过热”等字样，画面亮度有所降低")   
 [校准程序打开白屏，或无法显示棋盘格](MagicIsland-Kinect-3.html "校准程序打开白屏，或无法显示棋盘格")   
 [校准程序内棋盘格四周显示红点，或不停闪烁](MagicIsland-Kinect-4.html "校准程序棋盘格四周显示红点，或不停闪烁")
 
