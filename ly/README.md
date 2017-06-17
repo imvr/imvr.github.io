@@ -7,6 +7,7 @@
 
 ### AR魔幻岛1代 ###
 
+[游戏更新后打开客户端，某款游戏不存在](MagicIsland-Update-1.html "游戏更新后打开客户端，某款游戏不存在")   
 [游戏画面卡住不动](MagicIsland-Kinect-1.html "游戏画面卡住不动")   
 [进入游戏后背景显示异常，没有地形](MagicIsland-Kinect-2.html "进入游戏后背景显示异常，没有地形")   
 [投影仪黑屏，不显示图像](MagicIsland-Projector-1.html "投影仪黑屏，不显示图像")   
