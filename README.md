@@ -29,6 +29,9 @@
 ### Third party package ###
 [Third-Party.html](Third-Party.html)
 
+### 龙星人 ###
+[龙星人](lxr/)
+
 ### AR ###
 [丽鱼AR](ly/)
 
