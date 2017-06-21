@@ -9,7 +9,7 @@
 
 [游戏如何更新？](MagicIsland-Update-2.html "游戏如何更新？")    
 [游戏更新后打开客户端，某款游戏不存在](MagicIsland-Update-1.html "游戏更新后打开客户端，某款游戏不存在")   
-[游戏画面卡住不动](MagicIsland-Kinect-1.html "游戏画面卡住不动")   
+[运行一段时间游戏画面卡住不动](MagicIsland-Kinect-1.html "运行一段时间游戏画面卡住不动")   
 [进入游戏后背景显示异常，没有地形](MagicIsland-Kinect-2.html "进入游戏后背景显示异常，没有地形")   
 [校准完成后打开游戏，沙盘不显示内容，地面上显示内容](MagicIsland-Calibration-1.html "校准完成后打开游戏，沙盘不显示内容，地面上显示内容")   
 [投影仪黑屏，不显示图像](MagicIsland-Projector-1.html "投影仪黑屏，不显示图像")   
@@ -20,10 +20,11 @@
 
 ### AR魔幻岛2代 ###
 
-[待编辑](待编辑 "待编辑")   
+[游戏如何更新？](MagicIsland-Update-2.html "游戏如何更新？")    
 
 ### 互动沙池 ###
 
+[游戏如何更新？](MagicIsland-Update-2.html "游戏如何更新？")   
 [标定时总是提示“画面中存在不合理的高点”](SandPool-calibration-1.html "标定时总是提示“画面中存在不合理的高点”")   
 [校准时棋盘格四周一直显示红点，按上下方向键调节亮度无法解决](SandPool-calibration-2.html "校准时棋盘格四周一直显示红点，按上下方向键调节亮度无法解决")   
 
@@ -41,16 +42,16 @@
 #### 百度云链接 ####
 [AR魔幻岛1代校准程序]("") 链接: https://pan.baidu.com/s/1pLHNWfx 密码: r552   
 [AR魔幻岛1代校准教学视频]("") 链接: https://pan.baidu.com/s/1skZe0Gl 密码: hqs4   
-[AR魔幻岛1代游戏包（无U盾版本）]("") 链接: https://pan.baidu.com/s/1crjYj0 密码: 7gjx   
-[AR魔幻岛1代游戏包（U盾版四个游戏全）]("") 链接: https://pan.baidu.com/s/1eSzPrzW 密码: k94u   
-[AR魔幻岛2代和互动沙池通用游戏包（U盾版四个游戏全）]("") 链接: https://pan.baidu.com/s/1i4ZuMVV 密码: ha86   
+[AR魔幻岛1代无U盾版游戏包（沙滩乐园、挖宝特工、春夏秋冬）]("") 链接: https://pan.baidu.com/s/1crjYj0 密码: 7gjx   
+[AR魔幻岛1代有U盾版游戏包（沙滩乐园、挖宝特工、春夏秋冬、快乐捞鱼）]("") 链接: https://pan.baidu.com/s/1eSzPrzW 密码: k94u   
+[AR魔幻岛2代和互动沙池通用版游戏包（沙滩乐园、挖宝特工、春夏秋冬、快乐捞鱼）]("") 链接: https://pan.baidu.com/s/1i4ZuMVV 密码: ha86   
 
 #### 点击即可下载 ####
 [AR魔幻岛1代无U盾版机器码生成工具](/attachment/sandbox/keyGenerator.zip "AR魔幻岛1代无U盾版机器码生成工具")   
-[AR魔幻岛1代、2代和互动沙池U盾版远程升级工具](/attachment/sandbox/dongleUpdate_v1.0.0.2.zip "AR魔幻岛1代、2代和互动沙池U盾版远程升级工具")   
+[AR魔幻岛1代、2代和互动沙池有U盾版远程升级工具](/attachment/sandbox/dongleUpdate_v1.0.0.2.zip "AR魔幻岛1代、2代和互动沙池U盾版远程升级工具")   
 [AR魔幻岛2代校准程序](/attachment/sandbox/发货-桌面沙盘版.zip "AR魔幻岛2代校准程序")   
 [互动沙池校准程序](/attachment/sandbox/发货-地面沙池版.zip "互动沙池校准程序")   
-[AR魔幻岛和互动沙池通用版客户端](/attachment/sandbox/魔幻岛客户端单机版.exe "AR魔幻岛和互动沙池通用版客户端")
+[AR魔幻岛和互动沙池通用客户端](/attachment/sandbox/魔幻岛客户端单机版.exe "AR魔幻岛和互动沙池通用版客户端")
 
 
 ---------------------------------
