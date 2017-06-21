@@ -7,6 +7,7 @@
 
 ### AR魔幻岛1代 ###
 
+[游戏如何更新？](MagicIsland-Update-2.html "游戏如何更新？")    
 [游戏更新后打开客户端，某款游戏不存在](MagicIsland-Update-1.html "游戏更新后打开客户端，某款游戏不存在")   
 [游戏画面卡住不动](MagicIsland-Kinect-1.html "游戏画面卡住不动")   
 [进入游戏后背景显示异常，没有地形](MagicIsland-Kinect-2.html "进入游戏后背景显示异常，没有地形")   
@@ -45,6 +46,8 @@
 [AR魔幻岛2代和互动沙池通用游戏包（U盾版四个游戏全）]("") 链接: https://pan.baidu.com/s/1i4ZuMVV 密码: ha86   
 
 #### 点击即可下载 ####
+[AR魔幻岛1代无U盾版机器码生成工具](/attachment/sandbox/keyGenerator.zip "AR魔幻岛1代无U盾版机器码生成工具")   
+[AR魔幻岛1代、2代和互动沙池U盾版远程升级工具](/attachment/sandbox/dongleUpdate_v1.0.0.2.zip "AR魔幻岛1代、2代和互动沙池U盾版远程升级工具")   
 [AR魔幻岛2代校准程序](/attachment/sandbox/发货-桌面沙盘版.zip "AR魔幻岛2代校准程序")   
 [互动沙池校准程序](/attachment/sandbox/发货-地面沙池版.zip "互动沙池校准程序")   
 [AR魔幻岛和互动沙池通用版客户端](/attachment/sandbox/魔幻岛客户端单机版.exe "AR魔幻岛和互动沙池通用版客户端")
