@@ -10,7 +10,7 @@
 [游戏如何更新？](MagicIsland-Update-2.html "游戏如何更新？")    
 [游戏更新后打开客户端，某款游戏不存在](MagicIsland-Update-1.html "游戏更新后打开客户端，某款游戏不存在")   
 [运行一段时间游戏画面卡住不动](MagicIsland-Kinect-1.html "运行一段时间游戏画面卡住不动")   
-[进入游戏后背景显示异常，没有地形](MagicIsland-Kinect-2.html "进入游戏后背景显示异常，没有地形")   
+[进入游戏后背景显示异常（白色或其他颜色），没有地形](MagicIsland-Kinect-2.html "进入游戏后背景显示异常（白色或其他颜色），没有地形")   
 [校准完成后打开游戏，沙盘不显示内容，地面上显示内容](MagicIsland-Calibration-1.html "校准完成后打开游戏，沙盘不显示内容，地面上显示内容")   
 [投影仪黑屏，不显示图像](MagicIsland-Projector-1.html "投影仪黑屏，不显示图像")   
 [投影仪无信号，显示蓝色背景](MagicIsland-Projector-2.html "投影仪无信号，显示蓝色背景")   
