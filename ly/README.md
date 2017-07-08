@@ -21,6 +21,7 @@
 ### AR魔幻岛2代 ###
 
 [游戏如何更新？](MagicIsland-Update-2.html "游戏如何更新？")    
+[桌面右下角显示需要激活Windows](MagicIsland-windows-1.html "桌面右下角显示需要激活Windows")
 
 ### 互动沙池 ###
 
@@ -51,6 +52,7 @@
 [AR魔幻岛1代、2代和互动沙池有U盾版远程升级工具](/attachment/sandbox/dongleUpdate_v1.0.0.2.zip "AR魔幻岛1代、2代和互动沙池U盾版远程升级工具")   
 [AR魔幻岛2代校准程序](/attachment/sandbox/发货-桌面沙盘版.zip "AR魔幻岛2代校准程序")   
 [互动沙池校准程序](/attachment/sandbox/发货-地面沙池版.zip "互动沙池校准程序")   
+[AR魔幻岛2代主机Windows10系统激活程序](/attachment/sandbox/暴风激活工具V17.0.exe "AR魔幻岛2代主机Windows10系统激活程序")    
 [AR魔幻岛和互动沙池通用客户端](/attachment/sandbox/魔幻岛客户端单机版.exe "AR魔幻岛和互动沙池通用版客户端")  
 [小龙魔盒调试流程](/attachment/sandbox/小龙魔盒调试流程.pdf "小龙魔盒调试流程")
 
