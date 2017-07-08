@@ -21,11 +21,12 @@
 ### AR魔幻岛2代 ###
 
 [游戏如何更新？](MagicIsland-Update-2.html "游戏如何更新？")    
-[桌面右下角显示需要激活Windows](MagicIsland-windows-1.html "桌面右下角显示需要激活Windows")
+[桌面右下角显示需要激活Windows](MagicIsland-Windows-1.html "桌面右下角显示需要激活Windows")
 
 ### 互动沙池 ###
 
-[游戏如何更新？](MagicIsland-Update-2.html "游戏如何更新？")   
+[游戏如何更新？](MagicIsland-Update-2.html "游戏如何更新？")  
+[桌面右下角显示需要激活Windows](MagicIsland-Windows-1.html "桌面右下角显示需要激活Windows")  
 [标定时总是提示“画面中存在不合理的高点”](SandPool-calibration-1.html "标定时总是提示“画面中存在不合理的高点”")   
 [校准时棋盘格四周一直显示红点，按上下方向键调节亮度无法解决](SandPool-calibration-2.html "校准时棋盘格四周一直显示红点，按上下方向键调节亮度无法解决")   
 
