@@ -16,19 +16,22 @@
 [投影仪无信号，显示蓝色背景](MagicIsland-Projector-2.html "投影仪无信号，显示蓝色背景")   
 [投影仪画面显示“投影机过热”等字样，画面亮度有所降低](MagicIsland-Projector-3.html "投影仪画面显示“投影机过热”等字样，画面亮度有所降低")   
 [校准程序打开白屏，或无法显示棋盘格](MagicIsland-Kinect-3.html "校准程序打开白屏，或无法显示棋盘格")   
-[校准程序内棋盘格四周显示红点，或不停闪烁](MagicIsland-Kinect-4.html "校准程序棋盘格四周显示红点，或不停闪烁")   
+[校准程序内棋盘格四周显示红点，或不停闪烁](MagicIsland-Kinect-4.html "校准程序棋盘格四周显示红点，或不停闪烁")    
+[U盾提示已过期，需要联系管理员续费，但是不应该过期](MagicIsland-Dongle-1.html "U盾提示已过期，需要联系管理员续费，但是不应该过期")   
 
 ### AR魔幻岛2代 ###
 
 [游戏如何更新？](MagicIsland-Update-2.html "游戏如何更新？")    
-[桌面右下角显示需要激活Windows](MagicIsland-Windows-1.html "桌面右下角显示需要激活Windows")
+[桌面右下角显示需要激活Windows](MagicIsland-Windows-1.html "桌面右下角显示需要激活Windows")   
+[U盾提示已过期，需要联系管理员续费，但是不应该过期](MagicIsland-Dongle-1.html "U盾提示已过期，需要联系管理员续费，但是不应该过期") 
 
 ### 互动沙池 ###
 
 [游戏如何更新？](MagicIsland-Update-2.html "游戏如何更新？")  
 [桌面右下角显示需要激活Windows](MagicIsland-Windows-1.html "桌面右下角显示需要激活Windows")  
 [标定时总是提示“画面中存在不合理的高点”](SandPool-calibration-1.html "标定时总是提示“画面中存在不合理的高点”")   
-[校准时棋盘格四周一直显示红点，按上下方向键调节亮度无法解决](SandPool-calibration-2.html "校准时棋盘格四周一直显示红点，按上下方向键调节亮度无法解决")   
+[校准时棋盘格四周一直显示红点，按上下方向键调节亮度无法解决](SandPool-calibration-2.html "校准时棋盘格四周一直显示红点，按上下方向键调节亮度无法解决")  
+[U盾提示已过期，需要联系管理员续费，但是不应该过期](MagicIsland-Dongle-1.html "U盾提示已过期，需要联系管理员续费，但是不应该过期")  
 
 ### 互动砸球 ###
 [待编辑](待编辑 "待编辑")   
