@@ -46,6 +46,7 @@
 ### 相关资源下载 ###
 ##### 百度云链接 ######
 [AR魔幻岛1代校准程序]("") 链接: https://pan.baidu.com/s/1pLHNWfx 密码: r552   
+[AR魔幻岛1代安装教学视频]("") 链接: http://pan.baidu.com/s/1geNoTr1 密码: 5yim   
 [AR魔幻岛1代校准教学视频]("") 链接: https://pan.baidu.com/s/1skZe0Gl 密码: hqs4   
 [AR魔幻岛1代无U盾版游戏包（沙滩乐园、挖宝特工、春夏秋冬）]("") 链接: https://pan.baidu.com/s/1crjYj0 密码: 7gjx   
 [AR魔幻岛1代有U盾版游戏包（沙滩乐园、挖宝特工、春夏秋冬、快乐捞鱼）]("") 链接: https://pan.baidu.com/s/1eSzPrzW 密码: k94u   
