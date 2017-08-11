@@ -1,8 +1,16 @@
-# Immersion API Index #
+# Immersion Download Index #
 
 ----------
 
-# Please click by your finger!!! #
+## SDK for KidsVR Product Ⅱ （龙星人2 SDK） ##
+
+### Unity （for Android Device）
+
+[Unity-SDK-KidsVR2.html](Unity-SDK-KidsVR2.html "Unity-SDK")  
+[Developer guidelines for KidsVR Product Ⅱ （龙星人2游戏开发手册）](/attachment/KidsVR2/儿童VR游戏制作说明_170731.pdf "Developer guidelines for KidsVR Product Ⅱ （龙星人2游戏开发手册）")
+
+
+## SDK for KidsVR Product （龙星人 SDK） ##
 
 ### IVR SDK ###
 
@@ -19,21 +27,22 @@
 
 ### Tools ###
 [Tools.html](Tools.html)  
-[ServerManager-for-ChildVR.html](ServerManager-for-ChildVR.html)  
-[VRCtrl.html](VRCtrl.html)  
+[ServerManager-for-ChildVR.html](ServerManager-for-ChildVR.html)   
 [Game Posters](attachment/tools/GamePosters.zip)
+<!-- [VRCtrl.html](VRCtrl.html) -->
 
-### ScreenCapture ###
-[ScreenCapturer.html](ScreenCapturer.html)
+<!-- ### ScreenCapture ### -->
+<!-- [ScreenCapturer.html](ScreenCapturer.html) -->
 
 ### Third party package ###
 [Third-Party.html](Third-Party.html)
 
-### 龙星人 ###
+## FAQs （常见问题） ##
+<!-- ### 龙星人 ### -->
 [龙星人](lxr/)
 
-### AR ###
-[丽鱼AR](ly/)
+<!-- ### 魔幻岛 ### -->
+[魔幻岛](ly/)
 
 ---------------------------------
 
