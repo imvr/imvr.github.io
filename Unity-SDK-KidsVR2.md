@@ -7,11 +7,7 @@
 
 [Home](index.html "Home")
 
-## for Unity3D 5.3 download:
-
-###v2.0
-
-备注：v2.0版本需要先安装LibIVR模块，请转到[LibIVR-API.html](LibIVR-API.html)并按指示操作。
+## for Unity3D download:
 
 | 版本        					| 发布日期        					| 更新描述  	|
 | :----------------------:					|:---------------------------------| :-----	|
