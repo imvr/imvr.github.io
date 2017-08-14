@@ -7,4 +7,4 @@
 ![""](images/MagicIsland-Projector-3-3.png)
 ![""](images/MagicIsland-Projector-3-4.png)
 ![""](images/MagicIsland-Projector-3-5.png)
-## 2. 联系丽鱼科技客服，反馈遇到的问题。
+## 2. 联系客服，反馈遇到的问题。
