@@ -1,5 +1,5 @@
 # 问题描述：
-## 校准完成后打开游戏，沙盘不显示内容，地面上显示内容，如下图所示。
+## 校准完成后打开游戏，互动沙盘内不显示内容，地面上显示内容，如下图所示。
 <video controls>
     <source src="videos/MagicIsland-Calibration-1-1.mp4" type="video/mp4">
 </video>
