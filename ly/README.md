@@ -56,7 +56,7 @@
 
 ##### 点击即可下载 #####
 [魔幻岛AR互动沙盘一代无U盾版机器码生成工具](/attachment/sandbox/keyGenerator.zip "魔幻岛AR互动沙盘一代无U盾版机器码生成工具")   
-[魔幻岛AR互动沙盘一代、二代和互动沙池有U盾版远程升级工具](/attachment/sandbox/dongleUpdate_v1.0.0.4.zip "魔幻岛AR互动沙盘一代、二代和互动沙池有U盾版远程升级工具")   
+[魔幻岛AR互动沙盘一代、二代和互动沙池有U盾版远程升级工具](/attachment/sandbox/dongleUpdate_v1.0.0.5.zip "魔幻岛AR互动沙盘一代、二代和互动沙池有U盾版远程升级工具")   
 [魔幻岛AR互动沙盘二代校准程序](/attachment/sandbox/发货-桌面沙盘版.zip "魔幻岛AR互动沙盘二代校准程序")   
 [魔幻岛AR互动沙盘二代校准图文教程](/attachment/sandbox/魔幻岛二代校准图文教程.pdf "魔幻岛AR互动沙盘二代校准图文教程")   
 [互动沙池校准程序](/attachment/sandbox/发货-地面沙池版.zip "互动沙池校准程序")      
