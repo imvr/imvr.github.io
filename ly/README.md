@@ -48,9 +48,11 @@
 [魔幻岛AR互动沙盘一代校准程序(含教学视频)]("") 链接: http://pan.baidu.com/s/1dFs3svZ 密码: u9vp   
 [魔幻岛AR互动沙盘一代沙箱安装教学视频]("") 链接: http://pan.baidu.com/s/1geNoTr1 密码: 5yim   
 [魔幻岛AR互动沙盘一代校准教学视频]("") 链接: https://pan.baidu.com/s/1skZe0Gl 密码: hqs4   
+[魔幻岛AR互动沙盘二代校准教学视频]("") 链接: http://pan.baidu.com/s/1nuVSIjn 密码: w8wd   
 [魔幻岛AR互动沙盘一代无U盾版游戏包（沙滩乐园、挖宝特工、春夏秋冬）]("") 链接: https://pan.baidu.com/s/1crjYj0 密码: 7gjx   
 [魔幻岛AR互动沙盘一代有U盾版游戏包（沙滩乐园、挖宝特工、春夏秋冬、快乐捞鱼）]("") 链接: https://pan.baidu.com/s/1eSzPrzW 密码: k94u   
-[魔幻岛AR互动沙盘二代和互动沙池通用版游戏包（沙滩乐园、挖宝特工、春夏秋冬、快乐捞鱼、积木天才之魔力交通）]("") 链接: http://pan.baidu.com/s/1c2bAwso 密码: ag8t    
+[魔幻岛AR互动沙盘二代和互动沙池通用版游戏包（沙滩乐园、挖宝特工、春夏秋冬、快乐捞鱼、积木天才之魔力交通）]("") 链接: http://pan.baidu.com/s/1c2bAwso 密码: ag8t   
+ 
 
 ##### 点击即可下载 #####
 [魔幻岛AR互动沙盘一代无U盾版机器码生成工具](/attachment/sandbox/keyGenerator.zip "魔幻岛AR互动沙盘一代无U盾版机器码生成工具")   
