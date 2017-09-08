@@ -59,6 +59,7 @@
 [魔幻岛AR互动沙盘一代、二代和互动沙池有U盾版远程升级工具](/attachment/sandbox/dongleUpdate_v1.0.0.5.zip "魔幻岛AR互动沙盘一代、二代和互动沙池有U盾版远程升级工具")   
 [魔幻岛AR互动沙盘二代校准程序](/attachment/sandbox/发货-桌面沙盘版.zip "魔幻岛AR互动沙盘二代校准程序")   
 [魔幻岛AR互动沙盘二代校准图文教程](/attachment/sandbox/魔幻岛二代校准图文教程.pdf "魔幻岛AR互动沙盘二代校准图文教程")   
+[魔幻岛AR互动沙盘二代操作手册](/attachment/sandbox/魔幻岛AR互动沙盘二代操作手册.pdf "魔幻岛AR互动沙盘二代操作手册")    
 [互动沙池校准程序](/attachment/sandbox/发货-地面沙池版.zip "互动沙池校准程序")         
 [魔幻岛AR互动沙盘和互动沙池通用版游戏客户端](/attachment/sandbox/魔幻岛客户端单机版.exe "AR魔幻岛和互动沙池通用版游戏客户端")  
 [小龙魔盒调试流程](/attachment/sandbox/小龙魔盒调试流程.pdf "小龙魔盒调试流程")
