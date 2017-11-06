@@ -7,7 +7,7 @@
 
 ### 魔幻岛AR互动沙盘一代 ###
 
-[游戏如何更新？](MagicIsland-Update-2.html "游戏如何更新？")    
+[沙盘一代游戏更新教程](MagicIsland-Update-V1.html "图文教程")    
 [游戏更新后打开客户端，某款游戏的图片消失不存在，导致无法选择该游戏](MagicIsland-Update-1.html "游戏更新后打开客户端，某款游戏的图片消失不存在，导致无法选择该游戏")   
 [正常运行一段时间后游戏画面卡住不动](MagicIsland-Kinect-1.html "正常运行一段时间后游戏画面卡住不动")   
 [进入游戏后背景显示异常（白色或其他颜色），没有地形](MagicIsland-Kinect-2.html "进入游戏后背景显示异常（白色或其他颜色），没有地形")   
@@ -43,26 +43,24 @@
 [待编辑](待编辑 "待编辑")
 
 ---------------------------------
-### 相关资源下载 ###
+### 资源下载 ###
 ##### 百度云链接 ######
 [魔幻岛AR互动沙盘一代校准程序(含教学视频)]("") 链接: http://pan.baidu.com/s/1dFs3svZ 密码: u9vp   
 [魔幻岛AR互动沙盘一代沙箱安装教学视频]("") 链接: http://pan.baidu.com/s/1geNoTr1 密码: 5yim   
 [魔幻岛AR互动沙盘一代校准教学视频]("") 链接: https://pan.baidu.com/s/1skZe0Gl 密码: hqs4   
 [魔幻岛AR互动沙盘二代校准教学视频]("") 链接: http://pan.baidu.com/s/1nuVSIjn 密码: w8wd   
-[魔幻岛AR互动沙盘一代无U盾版游戏包（沙滩乐园、挖宝特工、春夏秋冬）]("") 链接: https://pan.baidu.com/s/1crjYj0 密码: 7gjx   
-[魔幻岛AR互动沙盘一代有U盾版游戏包（沙滩乐园、挖宝特工、春夏秋冬、快乐捞鱼）]("") 链接: https://pan.baidu.com/s/1eSzPrzW 密码: k94u   
-[魔幻岛AR互动沙盘二代和互动沙池通用版游戏包（沙滩乐园、挖宝特工、春夏秋冬、快乐捞鱼、积木天才之魔力交通）]("") 链接: http://pan.baidu.com/s/1c2bAwso 密码: ag8t   
-[魔幻岛AR互动沙盘二代和互动沙池通用版游戏更新包（新游戏魔幻草原）]("") 链接: https://pan.baidu.com/s/1miihazA 密码: x7k5    
+[魔幻岛AR互动沙盘一代无U盾版完整游戏包（三个游戏）]("") 链接: https://pan.baidu.com/s/1crjYj0 密码: 7gjx   
+[魔幻岛AR互动沙盘一代有U盾版完整游戏包（四个游戏）]("") 链接: https://pan.baidu.com/s/1eSzPrzW 密码: k94u   
+[魔幻岛AR互动沙盘二代完整游戏包（六个游戏）]("") 链接: http://pan.baidu.com/s/1c2bAwso 密码: ag8t     
  
 
-##### 点击即可下载 #####
-[魔幻岛AR互动沙盘一代无U盾版机器码生成工具](/attachment/sandbox/keyGenerator.zip "魔幻岛AR互动沙盘一代无U盾版机器码生成工具")   
-[魔幻岛AR互动沙盘一代、二代和互动沙池有U盾版远程升级工具](/attachment/sandbox/dongleUpdate_v1.0.0.5.zip "魔幻岛AR互动沙盘一代、二代和互动沙池有U盾版远程升级工具")   
+##### 点击自动下载 #####
+[魔幻岛AR互动沙盘一代无U盾版验证文件生成工具](/attachment/sandbox/keyGenerator.zip "魔幻岛AR互动沙盘一代无U盾版验证文件生成工具")   
+[魔幻岛AR互动沙盘U盾远程升级工具](/attachment/sandbox/dongleUpdate_v1.0.0.5.zip "魔幻岛AR互动沙盘U盾远程升级工具")   
 [魔幻岛AR互动沙盘二代校准程序](/attachment/sandbox/魔幻岛沙盘二代校准软件1.1.zip "魔幻岛AR互动沙盘二代校准程序")   
 [魔幻岛AR互动沙盘二代校准图文教程](/attachment/sandbox/魔幻岛二代校准图文教程.pdf "魔幻岛AR互动沙盘二代校准图文教程")   
-[魔幻岛AR互动沙盘二代操作手册](/attachment/sandbox/魔幻岛AR互动沙盘二代操作手册.pdf "魔幻岛AR互动沙盘二代操作手册")    
-[互动沙池校准程序](/attachment/sandbox/互动沙池校准程序.zip "互动沙池校准程序")         
-[魔幻岛AR互动沙盘和互动沙池通用版游戏客户端](/attachment/sandbox/魔幻岛客户端单机版.exe "AR魔幻岛和互动沙池通用版游戏客户端")  
+[魔幻岛AR互动沙盘二代操作手册](/attachment/sandbox/魔幻岛AR互动沙盘二代操作手册.pdf "魔幻岛AR互动沙盘二代操作手册")           
+[魔幻岛AR互动沙盘游戏客户端](/attachment/sandbox/魔幻岛客户端单机版.exe "AR魔幻岛游戏客户端")  
 [小龙魔盒调试流程](/attachment/sandbox/小龙魔盒调试流程.pdf "小龙魔盒调试流程")
 
 
