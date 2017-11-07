@@ -8,9 +8,9 @@
 ### 魔幻岛AR互动沙盘一代 ###
 
 [沙盘一代游戏更新教程](MagicIsland-Update-V1.html "图文教程")    
-[游戏更新后打开客户端，某款游戏的图片消失不存在，导致无法选择该游戏](MagicIsland-Update-1.html "游戏更新后打开客户端，某款游戏的图片消失不存在，导致无法选择该游戏")   
-[正常运行一段时间后游戏画面卡住不动](MagicIsland-Kinect-1.html "正常运行一段时间后游戏画面卡住不动")   
-[进入游戏后背景显示异常（白色或其他颜色），没有地形](MagicIsland-Kinect-2.html "进入游戏后背景显示异常（白色或其他颜色），没有地形")   
+[游戏更新后打开客户端，某款游戏缺失](MagicIsland-Update-Q1.html "游戏缺失")   
+[正常运行一段时间后游戏画面卡住不动](MagicIsland-Kinect-Q1.html "游戏画面卡死")   
+[进入游戏后背景显示异常（白色、绿色或黑色）](MagicIsland-Kinect-2.html "游戏背景显示异常")   
 [校准完成后打开游戏，互动沙盘内不显示内容，地面上显示内容](MagicIsland-Calibration-1.html "校准完成后打开游戏，互动沙盘内不显示内容，地面上显示内容")   
 [投影仪黑屏，不显示任何图像](MagicIsland-Projector-1.html "投影仪黑屏，不显示任何图像")   
 [投影仪无信号，显示蓝色背景](MagicIsland-Projector-2.html "投影仪无信号，显示蓝色背景")   
