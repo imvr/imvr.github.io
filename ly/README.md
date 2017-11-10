@@ -23,7 +23,7 @@
 ### 魔幻岛AR互动沙盘二代 ###
 
 [沙盘二代游戏更新教程](MagicIsland-Update-Q3.html "图文教程")      
-[校准过程中棋盘格四周一直显示红点](MagicIsland-calibration-Q3.html "棋盘格四周一直显示红点")  
+[校准过程中棋盘格四周一直显示红点](MagicIsland-Calibration-Q3.html "棋盘格四周一直显示红点")  
 [U盾提示已过期](MagicIsland-Dongle-Q2.html "U盾提示已过期")
 
 ### 互动沙池 ###
