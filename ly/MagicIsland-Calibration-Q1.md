@@ -6,6 +6,7 @@
 ## 解决方法：
 ### 1. 重新校准：退出游戏，将沙箱放置到投影仪下方正确位置后，重新校准一次。
 > 注：校准第一步不要将框画的超过沙盘范围，沿着沙盘边缘内侧画框即可，如视频所示。
+
 <video controls>
     <source src="videos/MagicIsland-Calibration-1-2.mp4" type="video/mp4">
 </video>
