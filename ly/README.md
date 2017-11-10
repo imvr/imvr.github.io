@@ -7,18 +7,18 @@
 
 ### 魔幻岛AR互动沙盘一代 ###
 
-[沙盘一代游戏更新教程](MagicIsland-Update-V1.html "图文教程")    
+[沙盘一代游戏更新教程](MagicIsland-Update-Q2.html "图文教程")    
 [游戏更新后打开客户端，某款游戏缺失](MagicIsland-Update-Q1.html "游戏缺失")   
 [正常运行一段时间后游戏画面卡住不动](MagicIsland-Kinect-Q1.html "游戏画面卡死")   
 [进入游戏后背景显示异常（白色、绿色或黑色）](MagicIsland-Kinect-Q2.html "游戏背景显示异常")   
-[校准完成后打开游戏，游戏内容在地面上显示正常，在沙盘内显示不正常](MagicIsland-Calibration-Q1.html "游戏内容显示在地面上")   
-[投影仪黑屏，不显示任何图像](MagicIsland-Projector-1.html "投影仪黑屏，不显示任何图像")   
-[投影仪无信号，显示蓝色背景](MagicIsland-Projector-2.html "投影仪无信号，显示蓝色背景")   
-[投影仪画面显示“投影机过热”等字样，画面亮度有所降低](MagicIsland-Projector-3.html "投影仪画面显示“投影机过热”等字样，画面亮度有所降低")   
-[校准程序打开提示错误，无法正常打开运行](MagicIsland-Calibration-2.html "校准程序打开提示错误，无法正常打开运行")   
-[校准程序打开白屏，或无法显示棋盘格](MagicIsland-Kinect-3.html "校准程序打开白屏，或无法显示棋盘格")   
-[校准程序打开后棋盘格四周显示红点，或不停闪烁](MagicIsland-Kinect-4.html "校准程序打开后棋盘格四周显示红点，或不停闪烁")    
-[U盾提示已过期，需要联系管理员续费，但是不应该过期](MagicIsland-Dongle-1.html "U盾提示已过期，需要联系管理员续费，但是不应该过期")   
+[校准完成后打开游戏，游戏内容显示在地面上](MagicIsland-Calibration-Q1.html "游戏内容显示在地面上")   
+[主机正常运行但是投影仪黑屏，不显示任何图像](MagicIsland-Projector-Q1.html "投影仪黑屏")   
+[主机正常运行但是投影仪显示无信号](MagicIsland-Projector-Q2.html "投影仪显示无信号")   
+[投影仪画面显示“投影机过热”等字样](MagicIsland-Projector-Q3.html "投影机过热")   
+[校准程序无法正常打开运行](MagicIsland-Calibration-Q2.html "校准程序无法正常打开运行")   
+[校准程序打开白屏](MagicIsland-Kinect-Q3.html "校准程序打开白屏")   
+[校准过程中棋盘格四周显示红点，或不停闪烁](MagicIsland-Kinect-Q4.html "棋盘格四周显示红点，或不停闪烁")    
+[U盾提示已过期](MagicIsland-Dongle-Q1.html "U盾提示已过期")   
 
 ### 魔幻岛AR互动沙盘二代 ###
 
