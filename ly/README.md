@@ -30,8 +30,8 @@
 
 [互动沙池游戏更新教程](MagicIsland-Update-Q3.html "图文教程")  
 [校准第一步画框时，总是提示出错](SandPool-calibration-Q1.html "校准第一步画框时，总是提示出错")   
-[校准时棋盘格四周一直显示红点，按上下方向键调节亮度无法解决](SandPool-calibration-2.html "校准时棋盘格四周一直显示红点，按上下方向键调节亮度无法解决")  
-[U盾提示已过期，需要联系管理员续费，但是不应该过期](MagicIsland-Dongle-1.html "U盾提示已过期，需要联系管理员续费，但是不应该过期")  
+[校准过程中棋盘格四周一直显示红点](SandPool-calibration-Q2.html "棋盘格四周一直显示红点") 
+[U盾提示已过期](MagicIsland-Dongle-Q2.html "U盾提示已过期") 
 
 ### 互动砸球 ###
 [待编辑](待编辑 "待编辑")   
