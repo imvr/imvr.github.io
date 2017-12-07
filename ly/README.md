@@ -17,7 +17,7 @@
 [投影仪画面显示“投影机过热”等字样](MagicIsland-Projector-Q3.html "投影机过热")   
 [校准程序无法正常打开运行](MagicIsland-Calibration-Q2.html "校准程序无法正常打开运行")   
 [校准程序打开白屏](MagicIsland-Kinect-Q3.html "校准程序打开白屏")   
-[校准过程中棋盘格四周显示红点，或不停闪烁](MagicIsland-Kinect-Q4.html "棋盘格四周显示红点，或不停闪烁")    
+[校准过程中棋盘格四周显示红点，或不停闪烁](MagicIsland-Kinect-Q4.html "棋盘格四周显示红点，或不停闪烁")     
 [U盾提示已过期](MagicIsland-Dongle-Q1.html "U盾提示已过期")   
 
 ### 魔幻岛AR互动沙盘二代 ###
@@ -31,7 +31,7 @@
 
 [互动沙池游戏更新教程](MagicIsland-Update-Q3.html "图文教程")  
 [校准第一步画框时，总是提示出错](SandPool-calibration-Q1.html "校准第一步画框时，总是提示出错")   
-[校准过程中棋盘格四周一直显示红点](SandPool-calibration-Q2.html "棋盘格四周一直显示红点") 
+[校准过程中棋盘格四周一直显示红点](SandPool-calibration-Q2.html "棋盘格四周一直显示红点")  
 [U盾提示已过期](MagicIsland-Dongle-Q2.html "U盾提示已过期") 
 
 ### 互动砸球 ###
@@ -62,6 +62,8 @@
 [魔幻岛AR互动沙盘二代校准图文教程](/attachment/sandbox/魔幻岛二代校准图文教程.pdf "魔幻岛AR互动沙盘二代校准图文教程")   
 [魔幻岛AR互动沙盘二代操作手册](/attachment/sandbox/魔幻岛AR互动沙盘二代操作手册.pdf "魔幻岛AR互动沙盘二代操作手册")           
 [魔幻岛AR互动沙盘游戏客户端](/attachment/sandbox/魔幻岛客户端单机版.exe "AR魔幻岛游戏客户端")  
+[互动砸球设备安装和使用说明](/attachment/sandbox/互动砸球设备安装和使用说明.pdf "互动砸球设备安装和使用说明")   
+[互动砸球校准及调试流程](/attachment/sandbox/互动砸球校准及调试流程.pdf "互动砸球校准及调试流程")  
 [小龙魔盒调试流程](/attachment/sandbox/小龙魔盒调试流程.pdf "小龙魔盒调试流程")
 
 
