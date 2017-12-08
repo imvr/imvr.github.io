@@ -22,7 +22,8 @@
 
 ### 魔幻岛AR互动沙盘二代 ###
 
-[沙盘二代游戏更新教程](MagicIsland-Update-Q3.html "图文教程")      
+[沙盘二代游戏更新教程](MagicIsland-Update-Q3.html "图文教程")  
+[主机正常运行但是投影仪显示无信号](MagicIsland-Projector-Q2.html "投影仪显示无信号")      
 [校准过程中棋盘格四周一直显示红点](MagicIsland-Calibration-Q3.html "棋盘格四周一直显示红点")  
 [投影仪无法投满整个沙盘](MagicIsland-Projector-Q4.html "投影仪无法投满整个沙盘")   
 [U盾提示已过期](MagicIsland-Dongle-Q2.html "U盾提示已过期")
@@ -30,6 +31,7 @@
 ### 互动沙池 ###
 
 [互动沙池游戏更新教程](MagicIsland-Update-Q3.html "图文教程")  
+[主机正常运行但是投影仪显示无信号](MagicIsland-Projector-Q2.html "投影仪显示无信号")  
 [校准第一步画框时，总是提示出错](SandPool-calibration-Q1.html "校准第一步画框时，总是提示出错")   
 [校准过程中棋盘格四周一直显示红点](SandPool-calibration-Q2.html "棋盘格四周一直显示红点")  
 [U盾提示已过期](MagicIsland-Dongle-Q2.html "U盾提示已过期") 
