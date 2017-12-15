@@ -21,7 +21,7 @@
     <source src="videos/MagicIsland-Kinect-1-4.mp4" type="video/mp4">
 </video>
 #### 2）打开主机的设备管理器，查看是存在如下图所示的设备，若有设备缺失，则需要重新更换USB接口直到出现如下图所示的所有设备，然后重启电脑重试。
-<image src="images/MagicIsland-Kinect-1-2.png">
+<image src="images/MagicIsland-Kinect-1-2.PNG">
 </image>
 ### 4. 排查电源适配器：如下图所示，检查沙箱内部接线板上的传感器电源适配器是否松动，确保其连接正常，然后重启电脑重试。
 <image src="images/MagicIsland-Kinect-1-1.jpg">
