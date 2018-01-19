@@ -26,8 +26,9 @@
 [沙盘二代游戏更新教程](MagicIsland-Update-Q3.html "图文教程")  
 [主机正常运行但是投影仪显示无信号](MagicIsland-Projector-Q2.html "投影仪显示无信号")      
 [校准过程中棋盘格四周一直显示红点](MagicIsland-Calibration-Q3.html "棋盘格四周一直显示红点")  
-[投影仪无法投满整个沙盘](MagicIsland-Projector-Q4.html "投影仪无法投满整个沙盘")   
+[投影仪无法投满整个沙盘](MagicIsland-Projector-Q4.html "投影仪无法投满整个沙盘")    
 [校准完成后打开游戏，地形固定向右下角偏一定距离](MagicIsland-Projector-Q5.html "校准完成后打开游戏地形固定向右下角偏一定距离")   
+[投影画面无法投满整个沙盘，向立柱方向偏移一段距离](MagicIsland-Projector-Q6.html "投影画面无法投满整个沙盘，向立柱方向偏移一段距离")   
 [U盾提示已过期](MagicIsland-Dongle-Q2.html "U盾提示已过期")
 
 ### 互动沙池 ###
