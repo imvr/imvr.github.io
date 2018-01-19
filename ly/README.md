@@ -17,7 +17,8 @@
 [投影仪画面显示“投影机过热”等字样](MagicIsland-Projector-Q3.html "投影机过热")   
 [校准程序无法正常打开运行](MagicIsland-Calibration-Q2.html "校准程序无法正常打开运行")   
 [校准程序打开白屏](MagicIsland-Kinect-Q3.html "校准程序打开白屏")   
-[校准过程中棋盘格四周显示红点，或不停闪烁](MagicIsland-Kinect-Q4.html "棋盘格四周显示红点，或不停闪烁")     
+[校准过程中棋盘格四周显示红点，或不停闪烁](MagicIsland-Kinect-Q4.html "棋盘格四周显示红点，或不停闪烁")  
+[校准完成后打开游戏，地形固定向右下角偏一定距离](MagicIsland-Projector-Q5.html "校准完成后打开游戏地形固定向右下角偏一定距离")     
 [U盾提示已过期](MagicIsland-Dongle-Q1.html "U盾提示已过期")   
 
 ### 魔幻岛AR互动沙盘二代 ###
