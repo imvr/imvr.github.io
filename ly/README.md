@@ -58,7 +58,8 @@
 [魔幻岛AR互动沙盘二代校准教学视频]("") 链接: http://pan.baidu.com/s/1nuVSIjn 密码: w8wd   
 [魔幻岛AR互动沙盘一代无U盾版完整游戏包（三个游戏）]("") 链接: https://pan.baidu.com/s/1crjYj0 密码: 7gjx   
 [魔幻岛AR互动沙盘一代有U盾版完整游戏包（四个游戏）]("") 链接: https://pan.baidu.com/s/1eSzPrzW 密码: k94u   
-[魔幻岛AR互动沙盘二代完整游戏包（七个游戏）]("") 链接: https://pan.baidu.com/s/1cjT8aa 密码: 2ecp     
+[魔幻岛AR互动沙盘二代完整游戏包（七个游戏）]("") 链接: https://pan.baidu.com/s/1cjT8aa 密码: 2ecp    
+[魔幻岛AR互动沙盘二代全套软件（带设置指南）]("") 链接: https://pan.baidu.com/s/1cjT8aa 密码: 2ecp  
  
 
 ##### 点击自动下载 #####
