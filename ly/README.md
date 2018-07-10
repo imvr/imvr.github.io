@@ -59,7 +59,6 @@
 [魔幻岛AR互动沙盘一代无U盾版完整游戏包（三个游戏）]("") 链接: https://pan.baidu.com/s/1crjYj0 密码: 7gjx   
 [魔幻岛AR互动沙盘一代有U盾版完整游戏包（四个游戏）]("") 链接: https://pan.baidu.com/s/1eSzPrzW 密码: k94u   
 [魔幻岛AR互动沙盘二代完整游戏包（七个游戏）]("") 链接: https://pan.baidu.com/s/1cjT8aa 密码: 2ecp    
-[魔幻岛AR互动沙盘二代全套软件（包括设置指南）]("") 链接：https://pan.baidu.com/s/1vAowdRpvRarqpTx_ssTXwQ 密码：63vc  
  
 
 ##### 点击自动下载 #####
@@ -71,7 +70,8 @@
 [魔幻岛AR互动沙盘游戏客户端](/attachment/sandbox/魔幻岛客户端单机版.exe "AR魔幻岛游戏客户端")  
 [互动砸球设备安装和使用说明](/attachment/sandbox/互动砸球设备安装和使用说明.pdf "互动砸球设备安装和使用说明")   
 [互动砸球校准及调试流程](/attachment/sandbox/互动砸球校准及调试流程.pdf "互动砸球校准及调试流程")  
-[小龙魔盒调试流程](/attachment/sandbox/小龙魔盒调试流程.pdf "小龙魔盒调试流程")
+[小龙魔盒调试流程](/attachment/sandbox/小龙魔盒调试流程.pdf "小龙魔盒调试流程")    
+[U盾ID读取工具](/attachment/sandbox/ETARMTool.exe "U盾ID读取工具")
 
 
 ---------------------------------
