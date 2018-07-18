@@ -67,10 +67,8 @@
 [魔幻岛AR互动沙盘二代校准程序](/attachment/sandbox/魔幻岛沙盘二代校准软件1.1.zip "魔幻岛AR互动沙盘二代校准程序")   
 [魔幻岛AR互动沙盘二代校准图文教程](/attachment/sandbox/魔幻岛二代校准图文教程.pdf "魔幻岛AR互动沙盘二代校准图文教程")     
 [魔幻岛AR互动沙盘二代使用手册](/attachment/sandbox/魔幻岛AR互动沙盘二代使用手册.pdf "魔幻岛AR互动沙盘二代使用手册")           
-[魔幻岛AR互动沙盘游戏客户端](/attachment/sandbox/魔幻岛客户端单机版.exe "AR魔幻岛游戏客户端")  
-[互动砸球设备安装和使用说明](/attachment/sandbox/互动砸球设备安装和使用说明.pdf "互动砸球设备安装和使用说明")   
-[互动砸球校准及调试流程](/attachment/sandbox/互动砸球校准及调试流程.pdf "互动砸球校准及调试流程")  
-[小龙魔盒调试流程](/attachment/sandbox/小龙魔盒调试流程.pdf "小龙魔盒调试流程")    
+[魔幻岛AR互动沙盘游戏客户端](/attachment/sandbox/魔幻岛客户端单机版.zip "AR魔幻岛游戏客户端")  
+[魔幻沙池安装教程](/attachment/sandbox/魔幻沙池安装教程.pdf "魔幻沙池安装教程")   
 [U盾ID读取工具](/attachment/sandbox/ETARMTool.exe "U盾ID读取工具")
 
 
