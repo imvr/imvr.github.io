@@ -52,7 +52,7 @@
 [魔幻岛AR互动沙盘一代无U盾版完整游戏包（三个游戏）]("") 链接: https://pan.baidu.com/s/1crjYj0 密码: 7gjx   
 [魔幻岛AR互动沙盘一代有U盾版完整游戏包（四个游戏）]("") 链接: https://pan.baidu.com/s/1eSzPrzW 密码: k94u   
 [魔幻岛AR互动沙盘二代完整游戏包(中文版v2.0)（七个游戏）]("适用于2019年前购买的沙盘") 链接: https://pan.baidu.com/s/1EZl40sPQQNGZ_2-_CT8bUA 提取码: 2ut3   
-[魔幻岛AR互动沙盘二代完整游戏包(中文版v2.1)（七个游戏）]("适用于2019年及以后购买的沙盘") 链接: https://pan.baidu.com/s/1Y56b-AaIU7CtjeR86sr4uw 提取码: vypd 
+[魔幻岛AR互动沙盘二代完整游戏包(中文版v2.1)（七个游戏）]("适用于2019年及以后购买的沙盘") 链接: https://pan.baidu.com/s/1Y56b-AaIU7CtjeR86sr4uw 提取码: vypd  
 [魔幻岛AR互动沙盘二代完整游戏包(英文版v1.0)（四个游戏）]("") 链接: https://pan.baidu.com/s/1TJRa9xb5uDK28EaiipMB3g 提取码: 8ata  
  
 
